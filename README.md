@@ -1,21 +1,17 @@
 # **Cloud Native Resource Monitoring Python App on K8s!**
 
-## Things you will Learn 🤯
+## What I did in this project
 
-1. Python and How to create Monitoring Application in Python using Flask and psutil
-2. How to run a Python App locally.
-3. Learn Docker and How to containerize a Python application
+1. Created a cloud native Monitoring Application in Python using Flask and psutil
+2. Ran the Python App locally.
+3. Containerized the app using Docker
     1. Creating Dockerfile
     2. Building DockerImage
     3. Running Docker Container
-    4. Docker Commands
-4. Create ECR repository using Python Boto3 and pushing Docker Image to ECR
-5. Learn Kubernetes and Create EKS cluster and Nodegroups
-6. Create Kubernetes Deployments and Services using Python!
+4. Created an ECR repository using Python Boto3 and pushing Docker Image to ECR
+5. Used Kubernetes and Created an EKS cluster and Nodegroups
+6. Created Kubernetes Deployments and Services using Python!
 ```
-
-# **Youtube Video for step by step Demonstration!**
-https://youtu.be/kBWCsHEcWnc
 
 ## **Prerequisites** !
 
@@ -27,7 +23,7 @@ https://youtu.be/kBWCsHEcWnc
 - [x]  Docker and Kubectl installed.
 - [x]  Code editor (Vscode)
 
-# ✨Let’s Start the Project ✨
+# ✨ Firing it up ✨
 
 ## **Part 1: Deploying the Flask application locally**
 
